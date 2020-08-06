@@ -37,5 +37,5 @@ function copyRight()
     var lastModDate = lastModDate.substring(0, 10);
 
     // @ts-ignore
-    displayCopyRight.innerHTML = "<span style='font-size:100%; color: black;'>Author Andrew L. This website was last modified " + lastModDate + ". </span>";
+    displayCopyRight.innerHTML = "<span style='font-size:100%; color: white;'>Author Andrew L. This website was last modified " + lastModDate + ". </span>";
 }
