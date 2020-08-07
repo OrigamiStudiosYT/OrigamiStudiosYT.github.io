@@ -6,7 +6,7 @@
     *
     *   Description: Handles the Javascript for the page
     *
-    *   Author:   Andrew Lortie
+    *   Author:   Andrew L
     *
     *   Date: 8/5/2020                                                          
     *                                                                            
@@ -22,7 +22,7 @@
     *   Description: Makes a copyright mark and tells the time since the website
     *                was last updated
     *
-    *   Author:   Andrew Lortie
+    *   Author:   Andrew L
     *
     *   Date: 8/5/2020                                                          
     *                                                                            
