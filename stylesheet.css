@@ -1,3 +1,18 @@
+/*
+    ******************************************************************************
+    *                                                                            *
+    *   Document: Stylesheet                                                     *
+    *                                                                            *
+    *   Description: The styleshhet that gives the website the pretty stuff      *
+    *                                                                            *
+    *   Author:  Andrew L                                                        *
+    *                                                                            *
+    *   Date: 8/20/2020                                                          *
+    *                                                                            *
+    *   History: 8/20/2020 Creation                                              *
+    ******************************************************************************
+*/
+
 /* ********************************    GENERAL ITEMS   *********************************** */
 
 a
@@ -48,6 +63,11 @@ th, td
     margin-left: 24%;
 }
 
+.imgsizing
+{
+    width: 50vw;
+}
+
 .bodypop
 {
     background-color: teal;
@@ -63,6 +83,22 @@ th, td
 {
     color: white;
 }
+
+.bulletgone
+{
+    list-style: none;
+}
+
+.margeintop
+{
+    margin-top: 1%;
+}
+
+.linksize
+{
+    font-size: 20px;
+}
+
 /* ********************************    DROPDOWN CLASSES   *********************************** */
 
 .dropbtn 
