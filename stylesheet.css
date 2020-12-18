@@ -1,9 +1,9 @@
 /*
     ******************************************************************************
     *                                                                            *
-    *   Document: Stylesheet                                                     *
+    *   Document: Stylesheets                                                     *
     *                                                                            *
-    *   Description: The styleshhet that gives the website the pretty stuff      *
+    *   Description: The stylesheets that gives the website the pretty stuff      *
     *                                                                            *
     *   Author:  Andrew L                                                        *
     *                                                                            *
@@ -53,8 +53,7 @@ th, td
 
 .centerall
 {
-    text-align: center;
-    
+    text-align: center;  
 }
 
 .centertext
